@@ -38,6 +38,7 @@ We investigate security challenges in emerging computing and networking technolo
 - Browser and Web Forensics
 - Cloud Forensics
 - Dark Web Forensics
+- Crypto Currency Analysis
 - Digital Forensics of Emerging Applications and Services
 
 ### Emerging Research Topics
@@ -52,14 +53,6 @@ We investigate security challenges in emerging computing and networking technolo
 This organization serves as a platform for sharing research artifacts, software prototypes, datasets, and experimental frameworks developed by NSSEC Lab.
 
 Explore our [repositories](https://github.com/orgs/NSSEC-SSWU/repositories) for available research resources.
-
-## Publications & Projects
-
-- [International Journal Publications](https://sites.google.com/view/sswu-nssec/publications/international-journal)
-- [Domestic Journal Publications](https://sites.google.com/view/sswu-nssec/publications/domestic-journal)
-- [Domestic Conference Publications](https://sites.google.com/view/sswu-nssec/publications/domestic-conference)
-- [Posters, Patents, and Awards](https://sites.google.com/view/sswu-nssec/publications/posters-patents-awards)
-- [Research Projects](https://sites.google.com/view/sswu-nssec/projects)
 
 ## People
 
