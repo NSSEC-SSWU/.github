@@ -1,7 +1,6 @@
 <div align="center">
 
 # NSSEC Lab
-
 ### Networked System Security Lab
 
 Sungshin Women's University · Seoul, Republic of Korea
